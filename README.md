@@ -9,7 +9,8 @@ PAVATE • FULL-STACK ENGINEER • ML SPECIALIST
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=woven&color=0:667eea,100:764ba2&height=300&section=header&text=Sampada%20Pavate&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20Full-Stack%20Engineer%20◉%20ML%20Specialist%20◉%20Research%20Assistant%20◉&descSize=18&descAlign=50&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=woven&color=0:667eea,100:764ba2&height=300&section=header&text=Sampada%20Pavate&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlign=50&desc=◉%20Full-Stack%20Engineer%20◉%20ML%20Specialist%20◉%20Research%20Assistant%20◉&descSize=18&descAlign=50&descAlignY=75" />
+
 </div>
 
 <div align="center">
