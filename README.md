@@ -26,7 +26,7 @@ Sampada Santosh Pavate • Full-Stack Software Engineer • ML Researcher
 
 ┌─[sampada@terminal]─[~/stats]
 └──╼ $ ls -la
-drwxr-xr-x  3 years of professional experience
+drwxr-xr-x  2 years of professional experience
 drwxr-xr-x  15+ projects delivered across web, mobile & ML domains
 -rw-r--r--  75% deployment time reduction through automation
 -rw-r--r--  92% ML prediction accuracy achieved
@@ -63,7 +63,7 @@ with real-world impact • Transforming complex problems into elegant solutions
 
 ## 💫 About Me
 
-I'm a **Full-Stack Software Engineer** and **Machine Learning Specialist** pursuing my Master's in Computer Science at the University of Texas at Arlington (graduating May 2025). With over **3 years of professional experience**, I specialize in building **intelligent, scalable systems** that transform complex technical challenges into elegant, user-centric solutions.
+I'm a **Full-Stack Software Engineer** and **Machine Learning Specialist** pursuing my Master's in Computer Science at the University of Texas at Arlington (graduating May 2025). With over **2 years of professional experience**, I specialize in building **intelligent, scalable systems** that transform complex technical challenges into elegant, user-centric solutions.
 
 My journey spans the complete software development lifecycle—from architecting **responsive frontend interfaces** with Next.js and React to engineering **robust backend systems** with Flask and Node.js, and developing **machine learning models** that achieve 92%+ accuracy. I'm passionate about leveraging technology to create measurable business impact, whether that's reducing deployment time by **75%**, improving operational efficiency by **40%**, or building systems that serve thousands of users.
 
